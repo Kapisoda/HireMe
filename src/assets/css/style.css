@@ -1,0 +1,15 @@
+html,
+body{
+    background-color: red;
+    color: rgb(73, 73, 73);
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+}
+
+/*---------------------------COMPONENTS------------------------*/
+.row{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
